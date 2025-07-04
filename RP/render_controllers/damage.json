@@ -1,0 +1,229 @@
+{
+	"format_version": "1.8.0",
+	"render_controllers": {
+		"controller.render.dmg": {
+			"geometry": "geometry.dmg",
+			"textures": [
+				"texture.default"
+			],
+			"materials": [
+				{
+					"*": "material.default"
+				}
+			],
+			"part_visibility": [
+				{
+					"*": false
+				}
+			]
+		},
+		"controller.render.dmg.blaze": {
+			"geometry": "geometry.dmg",
+			"textures": [
+				"texture.hp100"
+			],
+			"materials": [
+				{
+					"*": "material.hp"
+				}
+			],
+			"part_visibility": [
+				{
+					"*": false
+				}
+			]
+		},
+		"controller.render.dmg.cat": {
+			"geometry": "geometry.dmg",
+			"textures": [
+				"texture.hp100"
+			],
+			"materials": [
+				{
+					"*": "material.hp"
+				}
+			],
+			"part_visibility": [
+				{
+					"*": false
+				}
+			]
+		},
+		"controller.render.dmg.fox": {
+			"geometry": "geometry.dmg",
+			"textures": [
+				"texture.hp100"
+			],
+			"materials": [
+				{
+					"*": "material.hp"
+				}
+			],
+			"part_visibility": [
+				{
+					"*": false
+				}
+			]
+		},
+		"controller.render.dmg.llama": {
+			"geometry": "geometry.dmg",
+			"textures": [
+				"texture.hp100"
+			],
+			"materials": [
+				{
+					"*": "material.hp"
+				}
+			],
+			"part_visibility": [
+				{
+					"*": false
+				}
+			]
+		},
+		"controller.render.dmg.ocelot": {
+			"geometry": "geometry.dmg",
+			"textures": [
+				"texture.hp100"
+			],
+			"materials": [
+				{
+					"*": "material.hp"
+				}
+			],
+			"part_visibility": [
+				{
+					"*": false
+				}
+			]
+		},
+		"controller.render.dmg.parrot": {
+			"geometry": "geometry.dmg",
+			"textures": [
+				"texture.hp100"
+			],
+			"materials": [
+				{
+					"*": "material.hp"
+				}
+			],
+			"part_visibility": [
+				{
+					"*": false
+				}
+			]
+		},
+		"controller.render.dmg.rabbit": {
+			"geometry": "geometry.dmg",
+			"textures": [
+				"texture.hp100"
+			],
+			"materials": [
+				{
+					"*": "material.hp"
+				}
+			],
+			"part_visibility": [
+				{
+					"*": false
+				}
+			]
+		},
+		"controller.render.dmg.shulker": {
+			"geometry": "geometry.dmg",
+			"textures": [
+				"texture.hp100"
+			],
+			"materials": [
+				{
+					"*": "material.hp"
+				}
+			],
+			"part_visibility": [
+				{
+					"*": false
+				}
+			]
+		},
+		"controller.render.dmg.tropicalfish": {
+			"geometry": "geometry.dmg",
+			"textures": [
+				"texture.hp100"
+			],
+			"materials": [
+				{
+					"*": "material.hp"
+				}
+			],
+			"part_visibility": [
+				{
+					"*": false
+				}
+			]
+		},
+		"controller.render.dmg.villager_v2": {
+			"geometry": "geometry.dmg",
+			"textures": [
+				"texture.hp100"
+			],
+			"materials": [
+				{
+					"*": "material.hp"
+				}
+			],
+			"part_visibility": [
+				{
+					"*": false
+				}
+			]
+		},
+		"controller.render.dmg.axolotl": {
+			"geometry": "geometry.dmg",
+			"textures": [
+				"texture.hp100"
+			],
+			"materials": [
+				{
+					"*": "material.hp"
+				}
+			],
+			"part_visibility": [
+				{
+					"*": false
+				}
+			]
+		},
+		"controller.render.dmg.frog": {
+			"geometry": "geometry.dmg",
+			"textures": [
+				"texture.hp100"
+			],
+			"materials": [
+				{
+					"*": "material.hp"
+				}
+			],
+			"part_visibility": [
+				{
+					"*": false
+				}
+			]
+		},
+		"controller.render.dmg.trader_llama": {
+			"geometry": "geometry.dmg",
+			"textures": [
+				"texture.hp100"
+			],
+			"materials": [
+				{
+					"*": "material.hp"
+				}
+			],
+			"part_visibility": [
+				{
+					"*": false
+				}
+			]
+		}
+	}
+}
