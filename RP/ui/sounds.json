@@ -1,0 +1,9 @@
+{
+   "individual_event_sounds" : {
+      "events" : {
+         "deny" : {
+            "pitch" : 1.0, "sound" : "mob.critical_hit", "volume" : 0.5
+         }
+      }
+   }
+}

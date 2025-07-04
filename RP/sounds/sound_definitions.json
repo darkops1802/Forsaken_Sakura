@@ -1,0 +1,14 @@
+{
+   "format_version" : "1.14.0",
+   "sound_definitions" : {
+      "mob.critical_hit" : {
+         "category" : "player",
+         "min_distance" : 1.0,
+         "sounds" : [
+            "sounds/Critical_attack1",
+            "sounds/Critical_attack2",
+            "sounds/Critical_attack3"
+         ]
+      }
+   }
+}

@@ -1,0 +1,12 @@
+{
+	"namespace": "stonecutter",
+
+	"container_gamepad_helpers@common.container_gamepad_helpers": {
+		"modifications": [
+			{
+				"control_name": "help_button",
+				"operation": "remove"
+			}
+		]
+	}
+}
