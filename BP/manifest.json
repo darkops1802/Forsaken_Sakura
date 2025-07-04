@@ -1,0 +1,52 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"DarkOps1802"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.7.48"
+			],
+			"dash": [
+				"0.11.7"
+			]
+		}
+	},
+	"header": {
+		"name": "pack.name",
+		"description": "pack.description",
+		"min_engine_version": [
+			1,
+			21,
+			80
+		],
+		"uuid": "701a02d5-c411-4e03-b15a-b8c710edde43",
+		"version": [
+			1,
+			1,
+			4
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "fae288c4-008d-41cb-a096-12207b866a01",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "654506d0-c828-48f6-ac4c-6b6e599e7deb",
+			"version": [
+				1,
+				1,
+				4
+			]
+		}
+	]
+}

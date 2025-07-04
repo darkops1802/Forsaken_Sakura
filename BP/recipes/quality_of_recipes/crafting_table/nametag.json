@@ -1,0 +1,33 @@
+{
+	"format_version": "1.20.30",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "qob:name_tag_recipe"
+		},
+		"unlock": [
+			{
+				"item": "minecraft:paper"
+			}
+		],
+		"pattern": [
+			"  A",
+			" B ",
+			"B  "
+		],
+		"key": {
+			"A": {
+				"item": "string"
+			},
+			"B": {
+				"item": "paper"
+			}
+		},
+		"result": {
+			"item": "minecraft:name_tag",
+			"count": 1
+		},
+		"tags": [
+			"crafting_table"
+		]
+	}
+}

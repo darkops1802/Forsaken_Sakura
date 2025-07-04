@@ -1,0 +1,26 @@
+{
+	"format_version": "1.21.30",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "qob:nether_wart_block_to_nether_wart"
+		},
+		"unlock": [
+			{
+				"item": "minecraft:nether_wart_block"
+			}
+		],
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:nether_wart_block",
+				"count": 1
+			}
+		],
+		"result": {
+			"item": "minecraft:nether_wart",
+			"count": 9
+		}
+	}
+}
