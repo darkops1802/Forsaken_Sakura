@@ -1,0 +1,42 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"DarkOps1802"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.7.48"
+			],
+			"dash": [
+				"0.11.7"
+			]
+		}
+	},
+	"header": {
+		"name": "Forsaken Sakura Pack",
+		"description": "In a land where blossoms once brought peace, a shadow now lingers. This pack refines the realm with glowing trims, ancient recipes, cleaner textures, and forgotten magic born from the Sakura’s fall.",
+		"min_engine_version": [
+			1,
+			21,
+			90
+		],
+		"uuid": "654506d0-c828-48f6-ac4c-6b6e599e7deb",
+		"version": [
+			1,
+			1,
+			11
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "79a51db0-d22d-4d49-acd9-83687ca75c12",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

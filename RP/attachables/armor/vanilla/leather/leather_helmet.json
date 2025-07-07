@@ -1,0 +1,27 @@
+{
+    "format_version": "1.21.0",
+    "minecraft:attachable": {
+        "description": {
+            "identifier": "minecraft:leather_helmet",
+            "materials": {
+                "default": "armor_leather",
+                "enchanted": "armor_leather_enchanted",
+                "glow": "armorTrim"
+            },
+            "textures": {
+                "default": "textures/glowing_armor/a",
+                "enchanted": "textures/misc/enchanted_actor_glint",
+                "def": "textures/models/armor/leather_1"
+            },
+            "geometry": {
+                "default": "geometry.humanoid.armor.helmet"
+            },
+            "render_controllers": [
+                "controller.render.armor.def",
+                {
+                    "controller.render.armor.glow": "v.has_trim"
+                }
+            ]
+        }
+    }
+}
